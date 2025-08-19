@@ -1,4 +1,4 @@
-🚗 Arduino Obstacle Avoiding Car
+## 🚗 Arduino Obstacle Avoiding Car
 
 This project demonstrates an **autonomous obstacle-avoiding and maze-solving car** built using an **Arduino Uno**, motor driver shield, ultrasonic sensor, and servo motor.  
 The robot detects obstacles in its path, makes intelligent decisions to move forward, stop, or turn left/right, and is capable of navigating through a maze environment.
