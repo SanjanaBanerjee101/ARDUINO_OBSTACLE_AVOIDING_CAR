@@ -8,7 +8,7 @@ The robot detects obstacles in its path, makes intelligent decisions to move for
 ## 🏆 Achievement
 - Built as a **group project** .  
 - Presented at our **Intra-College TechFest 2024**.  
-- Secured **4th place** in the competition.
+- Ranked in Top 5 at the competition.
 
 ---
 
